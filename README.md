@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kolpona/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Kolpona](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Kolpona](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক তৃষ্ণায় ছুঁয়েছি তোমার মন
+> আমার এই কল্পনায় তুমি যে সারাক্ষণ
+> গোপন শিহরণে কাঁপে আমার এই শরীর
+> আজ রাতে ভেঙে যাক দূরত্বের সব প্রাচীর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
