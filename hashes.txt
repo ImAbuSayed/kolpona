@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kolpona
+
+This log tracks the cryptographic history and versioning for the song **Kolpona** (kolpona).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:21:16.354081 | `v1` | `ce7aa353bc52dd08a720cc61f00f9c009770cc71c6f71e2773c05130456f04b7` | `44ad4b1e2005750cfeae150571fc42804e4a0b452e088174d51c1d5788b022b7` | `2026-05-08_kolpona-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
